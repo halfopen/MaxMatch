@@ -134,7 +134,6 @@ if __name__ == '__main__':
                         dest="corpus",
                         help="corpus file path")
     parser.add_argument("sentence")
-    parser.add_argument("-o", dest="output_path", help="output file path")
     args = parser.parse_args()
 
     matcher = MaxMatch()

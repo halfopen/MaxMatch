@@ -24,6 +24,21 @@
     输⼊ 他 今年 是 ⼤学 的 学⽣ 了
     输出 [他] [今年] [是] [⼤学 的 学⽣] [了]
 
+
+![](./pic/1.png)
+
+使用方法
+
+    usage: maxmatch.py [-h] [-c CORPUS] sentence
+    
+    positional arguments:
+      sentence
+    
+    optional arguments:
+      -h, --help  show this help message and exit
+      -c CORPUS   corpus file path
+
+
 ```
  python maxmatch.py "⼩明 是 复旦 ⼤学 的 学⽣"
 
