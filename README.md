@@ -1,4 +1,4 @@
-# MaxMatch
+# MaxMatch  https://github.com/halfopen/MaxMatch
 句子的最大匹配算法
 
 基于实例的机器翻译系统，预先存储⼀个语料库，其中每⼀项都是⼀个对译的双语句⼦对，通
